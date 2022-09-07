@@ -11,7 +11,7 @@
  * (Hali hazırda bu proje için yüklemenize gerek yok ancak sıfır bir proje başlatıyorsanız bunları yapmanız gerekmektedir.)
  * "Solution Explorer" penceresinden "Interface_Abstract" yazan projemize sağ tuş tıklayıp "Add > Service Reference..." seçeneğini seçiyoruz.
  * Açılan pencereden "WCF Web Service" isimli seçeneğini seçiyoruz ve "Next" butonuna basıyoruz.
- * "URI:" yazısının altındaki kutucuğa "asd" linkini yapıştırıyoruz.
+ * "URI:" yazısının altındaki kutucuğa "https://tckimlik.nvi.gov.tr/service/kpspublic.asmx?op=TCKimlikNoDogrula" linkini yapıştırıyoruz.
  * "Namespace" yazısının altındaki kutucuğa "MernisServiceReference" yazıyoruz. (Namespace servisimizin namespace ismi olacak. Farklı bir şey de yazabilirsiniz.)
  * Ve "Go" butonuna basıyoruz.
  * Biraz bekledikten sonra "Next" butonuna basıyoruz ve karşımıza çıkan tüm pencereleri "Next" butonuna basarak ilerletiyoruz.
